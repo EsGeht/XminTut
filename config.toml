@@ -1,3 +1,4 @@
+theme = "hugo-xmin"
 baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
